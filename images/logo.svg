@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="209" height="54" viewBox="0 0 209 54">
+<svg xmlns="http://www.w3.org/2000/svg" width="209" height="54"  viewBox="0 0 209 54">
   <defs>
     <style>
       .cls-1 {
@@ -23,7 +23,7 @@
         font-size: 32.498px;
         fill: #fff;
         font-family: Inter;
-        font-weight: 700;
+        font-weight: 500;
       }
     </style>
   </defs>
